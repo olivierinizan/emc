@@ -8,7 +8,8 @@ VEC1_CSV = './triples/Adam_May__footballer_.csv'
 VEC1_URI = "http://dbpedia.org/resource/Adam_May_(footballer)"
 SLICE_PARAM = 100
 
-PREFIX = "http://example.org/emc/"
+#PREFIX = "http://example.org/emc/"
+PREFIX = "https://lisn.upsaclay.fr/vocabulary/emc/"
 NAMED_GAPH_PREFIX = "http://emc.org/"
 
 def index_named_graphs_and_hasCosine_min_max_predicate(cosine_interval,g):

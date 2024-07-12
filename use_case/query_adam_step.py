@@ -7,7 +7,7 @@ g.parse("out.nq",format='nquads')
 
 # EMC by epsilon specificity
 query9="""
-PREFIX emc: <http://example.org/emc/>
+PREFIX emc: <https://lisn.upsaclay.fr/vocabulary/emc/>
 SELECT  ?emc ?size ?sized ?sizeo ?player2 ?cosine
 WHERE{
     ?emc a emc:EMC ;
@@ -29,7 +29,7 @@ for row in results:
 
 # e_15
 query10="""
-PREFIX emc: <http://example.org/emc/>
+PREFIX emc: <https://lisn.upsaclay.fr/vocabulary/emc/>
 SELECT ?p
 WHERE {
     emc:e_15 emc:includes ?p .
@@ -45,7 +45,7 @@ for row in results:
 
 # d_0
 query10="""
-PREFIX emc: <http://example.org/emc/>
+PREFIX emc: <https://lisn.upsaclay.fr/vocabulary/emc/>
 SELECT ?p
 WHERE {
     emc:d_0 emc:includes ?p .
@@ -62,7 +62,7 @@ for row in results:
 
 # e_4
 query11="""
-PREFIX emc: <http://example.org/emc/>
+PREFIX emc: <https://lisn.upsaclay.fr/vocabulary/emc/>
 SELECT ?p
 WHERE {
     emc:e_4 emc:includes ?p .
@@ -84,7 +84,7 @@ print(e_4 - e_15)
 
 # d_4
 query11="""
-PREFIX emc: <http://example.org/emc/>
+PREFIX emc: <https://lisn.upsaclay.fr/vocabulary/emc/>
 SELECT ?p
 WHERE {
     emc:d_4 emc:includes ?p .
