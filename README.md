@@ -20,5 +20,5 @@ This is the code for Entity Matching Contexts
 
 # Use case
 - nquad graph for Adam May: use\_case/out.nq
-- sparql query result (step 4 of experimental setup): use\_case/adam\_query.res
-- queries example: TODO
+- sparql query result (table 3): use\_case/adam\_query.res
+- queries example: use\_case/queries.py
