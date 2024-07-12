@@ -1,0 +1,8 @@
+p,o
+http://dbpedia.org/ontology/numberOfGoals,5
+http://dbpedia.org/ontology/numberOfMatches,55
+http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Cambridge_United_F.C.
+http://dbpedia.org/ontology/years,2018
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/CareerStation
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/TimePeriod
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval

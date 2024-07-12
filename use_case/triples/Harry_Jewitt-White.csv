@@ -1,0 +1,90 @@
+p,o
+http://dbpedia.org/ontology/abstract,Harry Jewitt-White (born 26 March 2004) is a Welsh footballer who plays for Portsmouth as a midfielder.
+http://dbpedia.org/ontology/birthDate,2004-03-26
+http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/England_national_football_team
+http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Portsmouth
+http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Harry_Jewitt-White__CareerStation__1
+http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Harry_Jewitt-White__CareerStation__2
+http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Harry_Jewitt-White__CareerStation__3
+http://dbpedia.org/ontology/number,30
+http://dbpedia.org/ontology/position,http://dbpedia.org/resource/Midfielder
+http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Portsmouth_F.C.
+http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Wales_national_under-17_football_team
+http://dbpedia.org/ontology/wikiPageID,66365587
+http://dbpedia.org/ontology/wikiPageLength,4233
+http://dbpedia.org/ontology/wikiPageRevisionID,1019609819
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/2020–21_Portsmouth_F.C._season
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Association_football
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:2004_births
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Association_football_defenders
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Footballers_from_Portsmouth
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Living_people
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Portsmouth_F.C._players
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Wales_youth_international_footballers
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Welsh_footballers
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/EFL_Cup
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/EFL_League_One
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/EFL_Trophy
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/England_national_football_team
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/FA_Cup
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Midfielder
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Peterborough_United_F.C.
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Portsmouth
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Portsmouth_F.C.
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Wales_national_football_team
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Wales_national_under-17_football_team
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/West_Ham_United_F.C.
+http://dbpedia.org/property/birthDate,2004-03-26
+http://dbpedia.org/property/birthPlace,"Portsmouth, England"
+http://dbpedia.org/property/caps,2
+http://dbpedia.org/property/clubUpdate,--01-12
+http://dbpedia.org/property/clubnumber,30
+http://dbpedia.org/property/clubs,http://dbpedia.org/resource/Portsmouth_F.C.
+http://dbpedia.org/property/currentclub,http://dbpedia.org/resource/Portsmouth_F.C.
+http://dbpedia.org/property/fullname,Harry George Jewitt-White
+http://dbpedia.org/property/goals,0
+http://dbpedia.org/property/name,Harry Jewitt-White
+http://dbpedia.org/property/nationalcaps,5
+http://dbpedia.org/property/nationalgoals,0
+http://dbpedia.org/property/nationalteam,http://dbpedia.org/resource/Wales_national_under-17_football_team
+http://dbpedia.org/property/nationalteamUpdate,--10-13
+http://dbpedia.org/property/nationalyears,2019
+http://dbpedia.org/property/position,http://dbpedia.org/resource/Midfielder
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Birth_date_and_age
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Infobox_football_biography
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Portsmouth_F.C._squad
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Reflist
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Short_description
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Updated
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Use_British_English
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Use_dmy_dates
+http://dbpedia.org/property/years,2020
+http://dbpedia.org/property/youthclubs,http://dbpedia.org/resource/Portsmouth_F.C.
+http://dbpedia.org/property/youthyears,2011
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2004_births
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Association_football_defenders
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Footballers_from_Portsmouth
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Living_people
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Portsmouth_F.C._players
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Wales_youth_international_footballers
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Welsh_footballers
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/Agent
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/Athlete
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/Person
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/SoccerPlayer
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://schema.org/Person
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2002/07/owl#Thing
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.wikidata.org/entity/Q215627
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.wikidata.org/entity/Q24229398
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.wikidata.org/entity/Q5
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.wikidata.org/entity/Q937857
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://xmlns.com/foaf/0.1/Person
+http://www.w3.org/2000/01/rdf-schema#comment,Harry Jewitt-White (born 26 March 2004) is a Welsh footballer who plays for Portsmouth as a midfielder.
+http://www.w3.org/2000/01/rdf-schema#label,Harry Jewitt-White
+http://www.w3.org/2002/07/owl#sameAs,https://global.dbpedia.org/id/FfgHR
+http://www.w3.org/ns/prov#wasDerivedFrom,http://en.wikipedia.org/wiki/Harry_Jewitt-White?oldid=1019609819&ns=0
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Harry_Jewitt-White
+http://xmlns.com/foaf/0.1/name,Harry George Jewitt-White
+http://xmlns.com/foaf/0.1/name,Harry Jewitt-White

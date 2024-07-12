@@ -1,0 +1,99 @@
+p,o
+http://dbpedia.org/ontology/abstract,"Cambridge Regional College FC (celým názvem: Cambridge Regional College Football Club) byl anglický fotbalový klub, který sídlil ve městě Cambridge v nemetropolitním hrabství Cambridgeshire. Jednalo se o rezervní tým Cambridge United FC. Založen byl v roce 2006, zanikl v roce 2014. Klubové barvy byly oranžová a černá.1 Své domácí zápasy odehrával na Abbey Stadium s kapacitou 10 847 diváků."
+http://dbpedia.org/ontology/abstract,"Cambridge Regional College Football Club was a football club based in Cambridge, England. The club were members of the Eastern Counties League Premier Division and played at the Abbey Stadium."
+http://dbpedia.org/ontology/capacity,10847
+http://dbpedia.org/ontology/ground,http://dbpedia.org/resource/Abbey_Stadium
+http://dbpedia.org/ontology/ground,http://dbpedia.org/resource/Cambridge
+http://dbpedia.org/ontology/league,http://dbpedia.org/resource/Eastern_Counties_Football_League
+http://dbpedia.org/ontology/position,http://dbpedia.org/resource/Eastern_Counties_Football_League
+http://dbpedia.org/ontology/wikiPageID,5622061
+http://dbpedia.org/ontology/wikiPageLength,3253
+http://dbpedia.org/ontology/wikiPageRevisionID,946849224
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Abbey_Stadium
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Association_football
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Cambridge
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Cambridge_City_F.C.
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Cambridge_United_F.C.
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:2006_establishments_in_England
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:2014_disestablishments_in_England
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Association_football_clubs_disestablished_in_2014
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Association_football_clubs_established_in_2006
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Cambridge_Regional_College_F.C._players
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Cambridge_United_F.C.
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Defunct_football_clubs_in_Cambridgeshire
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Defunct_football_clubs_in_England
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Eastern_Counties_Football_League
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Sport_in_Cambridge
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Eastern_Counties_Football_League
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/England
+http://dbpedia.org/property/body,FF8800
+http://dbpedia.org/property/body,FFFFFF
+http://dbpedia.org/property/capacity,10847
+http://dbpedia.org/property/clubname,Cambridge Regional College
+http://dbpedia.org/property/dissolved,2014
+http://dbpedia.org/property/founded,2006
+http://dbpedia.org/property/fullname,Cambridge Regional College Football Club
+http://dbpedia.org/property/ground,http://dbpedia.org/resource/Abbey_Stadium
+http://dbpedia.org/property/ground,http://dbpedia.org/resource/Cambridge
+http://dbpedia.org/property/imageSize,110
+http://dbpedia.org/property/league,http://dbpedia.org/resource/Eastern_Counties_Football_League
+http://dbpedia.org/property/league,Premier Division
+http://dbpedia.org/property/leftarm,FF8800
+http://dbpedia.org/property/leftarm,FFFFFF
+http://dbpedia.org/property/manager,Mark Bonner
+http://dbpedia.org/property/nickname,The Scholars
+http://dbpedia.org/property/position,http://dbpedia.org/resource/Eastern_Counties_Football_League
+http://dbpedia.org/property/position,"Premier Division, 14th"
+http://dbpedia.org/property/rightarm,FF8800
+http://dbpedia.org/property/rightarm,FFFFFF
+http://dbpedia.org/property/season,2013
+http://dbpedia.org/property/shorts,0
+http://dbpedia.org/property/shorts,FFFFFF
+http://dbpedia.org/property/socks,FF8800
+http://dbpedia.org/property/socks,FFFFFF
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Cambridge_United_F.C.
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Coord
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Eastern_Counties_Premier
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Football_club_infobox
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Reflist
+http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-baseball_club-noun-1
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2006_establishments_in_England
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2014_disestablishments_in_England
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Association_football_clubs_disestablished_in_2014
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Association_football_clubs_established_in_2006
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Cambridge_United_F.C.
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Defunct_football_clubs_in_Cambridgeshire
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Defunct_football_clubs_in_England
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Eastern_Counties_Football_League
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Sport_in_Cambridge
+http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Club
+http://www.georss.org/georss/point,52.21136 0.153
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/Agent
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/Organisation
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/SoccerClub
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/SportsClub
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://schema.org/Organization
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://umbel.org/umbel/rc/Club_Organization
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2002/07/owl#Thing
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.wikidata.org/entity/Q24229398
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.wikidata.org/entity/Q43229
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.wikidata.org/entity/Q476028
+http://www.w3.org/2000/01/rdf-schema#comment,"Cambridge Regional College FC (celým názvem: Cambridge Regional College Football Club) byl anglický fotbalový klub, který sídlil ve městě Cambridge v nemetropolitním hrabství Cambridgeshire. Jednalo se o rezervní tým Cambridge United FC. Založen byl v roce 2006, zanikl v roce 2014. Klubové barvy byly oranžová a černá.1 Své domácí zápasy odehrával na Abbey Stadium s kapacitou 10 847 diváků."
+http://www.w3.org/2000/01/rdf-schema#comment,"Cambridge Regional College Football Club was a football club based in Cambridge, England. The club were members of the Eastern Counties League Premier Division and played at the Abbey Stadium."
+http://www.w3.org/2000/01/rdf-schema#label,Cambridge Regional College F.C.
+http://www.w3.org/2000/01/rdf-schema#label,Cambridge Regional College FC
+http://www.w3.org/2002/07/owl#sameAs,http://cs.dbpedia.org/resource/Cambridge_Regional_College_FC
+http://www.w3.org/2002/07/owl#sameAs,http://fa.dbpedia.org/resource/باشگاه_فوتبال_کمبریج_رجیونال_کالج
+http://www.w3.org/2002/07/owl#sameAs,http://www.wikidata.org/entity/Q5025508
+http://www.w3.org/2002/07/owl#sameAs,http://yago-knowledge.org/resource/Cambridge_Regional_College_F.C.
+http://www.w3.org/2002/07/owl#sameAs,https://global.dbpedia.org/id/4exye
+http://www.w3.org/2003/01/geo/wgs84_pos#lat,5.221136E1
+http://www.w3.org/2003/01/geo/wgs84_pos#long,1.53E-1
+http://www.w3.org/ns/prov#wasDerivedFrom,http://en.wikipedia.org/wiki/Cambridge_Regional_College_F.C.?oldid=946849224&ns=0
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Cambridge_Regional_College_F.C.
+http://xmlns.com/foaf/0.1/name,Cambridge Regional College Football Club
+http://xmlns.com/foaf/0.1/name,Cambridge Regional College
+http://xmlns.com/foaf/0.1/nick,The Scholars

@@ -1,0 +1,89 @@
+p,o
+http://dbpedia.org/ontology/abstract,"Jubril Adesope Okedina (born 26 October 2000) is an English professional footballer who plays for Cambridge United, on loan from Tottenham Hotspur, as a defender."
+http://dbpedia.org/ontology/birthDate,2000-10-26
+http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Woolwich
+http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Jubril_Okedina__CareerStation__1
+http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Jubril_Okedina__CareerStation__2
+http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Jubril_Okedina__CareerStation__3
+http://dbpedia.org/ontology/number,15
+http://dbpedia.org/ontology/position,http://dbpedia.org/resource/Defender_(association_football)
+http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Cambridge_United_F.C.
+http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Tottenham_Hotspur_F.C.
+http://dbpedia.org/ontology/wikiPageID,66304452
+http://dbpedia.org/ontology/wikiPageLength,3970
+http://dbpedia.org/ontology/wikiPageRevisionID,1022120940
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/2020–21_Cambridge_United_F.C._season
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/2020–21_Tottenham_Hotspur_F.C._season
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Association_football
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Beths_Grammar_School
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Cambridge_United_F.C.
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:2000_births
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Association_football_defenders
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Cambridge_United_F.C._players
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:English_Football_League_players
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:English_footballers
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Living_people
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Category:Tottenham_Hotspur_F.C._players
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Defender_(association_football)
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/EFL_Cup
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/EFL_League_Two
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/EFL_Trophy
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/FA_Cup
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Oxford_United_F.C.
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Premier_League
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Tottenham_Hotspur_F.C.
+http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/resource/Woolwich
+http://dbpedia.org/property/birthDate,2000-10-26
+http://dbpedia.org/property/birthPlace,"Woolwich, England"
+http://dbpedia.org/property/caps,0
+http://dbpedia.org/property/caps,14
+http://dbpedia.org/property/clubUpdate,--05-08
+http://dbpedia.org/property/clubnumber,15
+http://dbpedia.org/property/clubs,http://dbpedia.org/resource/Tottenham_Hotspur_F.C.
+http://dbpedia.org/property/clubs,→ Cambridge United
+http://dbpedia.org/property/currentclub,http://dbpedia.org/resource/Cambridge_United_F.C.
+http://dbpedia.org/property/currentclub,
+http://dbpedia.org/property/fullname,Jubril Adesope Okedina
+http://dbpedia.org/property/goals,0
+http://dbpedia.org/property/name,Jubril Okedina
+http://dbpedia.org/property/position,http://dbpedia.org/resource/Defender_(association_football)
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Birth_date_and_age
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Cambridge_United_F.C._squad
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Efn
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:England-footy-bio-stub
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Infobox_football_biography
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Notelist
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Reflist
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Short_description
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Updated
+http://dbpedia.org/property/wikiPageUsesTemplate,http://dbpedia.org/resource/Template:Use_dmy_dates
+http://dbpedia.org/property/years,2020
+http://dbpedia.org/property/years,2021
+http://dbpedia.org/property/youthclubs,http://dbpedia.org/resource/Tottenham_Hotspur_F.C.
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2000_births
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Association_football_defenders
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Cambridge_United_F.C._players
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_Football_League_players
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_footballers
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Living_people
+http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Tottenham_Hotspur_F.C._players
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/Agent
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/Athlete
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/Person
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/SoccerPlayer
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://schema.org/Person
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2002/07/owl#Thing
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.wikidata.org/entity/Q215627
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.wikidata.org/entity/Q24229398
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.wikidata.org/entity/Q5
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.wikidata.org/entity/Q937857
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://xmlns.com/foaf/0.1/Person
+http://www.w3.org/2000/01/rdf-schema#comment,"Jubril Adesope Okedina (born 26 October 2000) is an English professional footballer who plays for Cambridge United, on loan from Tottenham Hotspur, as a defender."
+http://www.w3.org/2000/01/rdf-schema#label,Jubril Okedina
+http://www.w3.org/2002/07/owl#sameAs,https://global.dbpedia.org/id/FMsg7
+http://www.w3.org/ns/prov#wasDerivedFrom,http://en.wikipedia.org/wiki/Jubril_Okedina?oldid=1022120940&ns=0
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Jubril_Okedina
+http://xmlns.com/foaf/0.1/name,Jubril Adesope Okedina
+http://xmlns.com/foaf/0.1/name,Jubril Okedina
