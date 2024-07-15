@@ -18,7 +18,7 @@ This is the code for Entity Matching Contexts
 - raw data for figure 4 are in: supplemental/ratio/CLASSNAME\_ratio\_barchart.csv
 - details on raw data generation are in experiment/README
 
-# Use case
+# Use case (table 3)
 - nquad graph for Adam May: use\_case/out.nq
 - sparql query result (table 3): use\_case/adam\_query.res
 - queries example: use\_case/queries.py

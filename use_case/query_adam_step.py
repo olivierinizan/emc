@@ -1,4 +1,3 @@
-from Lib import *
 from rdflib import Graph, Literal, Namespace, URIRef, RDF, RDFS, XSD, ConjunctiveGraph
 from urllib.parse import unquote
 
