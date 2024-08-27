@@ -1,4 +1,8 @@
 This is the code for Entity Matching Contexts
+
+# Erraturm
+The link provided in footnote 12 is no longer valid. 
+Please use this link instead: https://druid.datalegend.net/Joe/-/stories/usecase-queries
  
 # EMCs 
 - EMCs have been detected on the VICKEY dataset
