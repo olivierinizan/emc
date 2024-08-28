@@ -1,6 +1,6 @@
 This is the code for Entity Matching Contexts
 
-# Erraturm
+# Erratum
 The link provided in footnote 12 is no longer valid. 
 Please use this link instead: https://druid.datalegend.net/Joe/-/stories/usecase-queries
  
